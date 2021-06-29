@@ -68,6 +68,17 @@
     font-weight: 500;
     margin-left: 100px;
 }
+.pos-f-t{
+    position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+#offer{
+    margin-top: 5%;
+}
 
 footer{
     text-align: center;
