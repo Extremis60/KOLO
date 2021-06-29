@@ -3,3 +3,50 @@
     margin: 0;
     padding: 0;
 }
+
+#logo{
+    text-align: center;
+    padding-top: 60px;
+    margin-bottom: 60px;
+}
+
+.describtion-company{
+    text-align: center;
+}
+
+#logo img{
+    height: 200px;
+    width: 200px;
+}
+
+#contact-content{
+    display: flex;
+}
+
+#contact{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.nav-text{
+    font-size: 30px !important;
+    color: black;
+}
+
+.nav-icons{
+    margin-right: 15px;
+}
+
+.fa{
+    font-size: 40px !important;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f8f9fa;
+    color: black;
+}
