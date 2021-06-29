@@ -3,3 +3,89 @@
     margin: 0;
     padding: 0;
 }
+
+.nav-text{
+    font-size: 30px !important;
+}
+
+.nav-icons{
+    margin-right: 15px;
+}
+
+.fa{
+    font-size: 40px !important;
+}
+
+#contact-btn{
+    padding: 15px;
+    color: black;
+    background-color: rgb(243, 243, 243);
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+#contact-btn:hover{
+    background-color: rgb(218, 218, 218);
+    cursor: pointer;
+}
+
+#nav-title{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.nav-text{
+    color: black;
+    font-size: 20px;
+}
+
+@media (max-width: 1200px) {
+    
+    .nav-text{
+        font-size: 20px !important;
+    }
+    
+    .nav-icons{
+        margin-right: 15px;
+    }
+    
+    .fa{
+        font-size: 30px !important;
+    }
+
+}
+
+@media (max-width: 768px) {
+    
+    .nav-text{
+        font-size: 15px !important;
+    }
+    
+    .nav-icons{
+        margin-right: 15px;
+    }
+    
+    .fa{
+        font-size: 25px !important;
+    }
+
+    #contact-btn{
+        padding: 10px;
+        border-radius: 25px;
+        font-size: 20px;
+    }
+    #nav-title{
+        font-size: 30px;
+        font-weight: 500;
+    }
+    
+    .nav-text{
+        color: black;
+        font-size: 15px;
+    }
+    .logo{
+        width: 60px;
+        height: 60px;
+    }
+
+}
