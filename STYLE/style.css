@@ -80,6 +80,11 @@
     margin-top: 5%;
 }
 
+.img-thumbnail{
+    border: none !important;
+    border-right: 1px solid #dee2e6 !important;
+}
+
 footer{
     text-align: center;
     font-size: 20px;
